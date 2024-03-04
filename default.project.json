@@ -1,0 +1,13 @@
+{
+  "name": "scrollingThing",
+  "tree": {
+    "$className": "DataModel",
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/client"
+      }
+    }
+  }
+
+}
